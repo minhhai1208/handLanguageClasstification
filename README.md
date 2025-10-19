@@ -56,7 +56,8 @@ The **CNN** automatically extracts hierarchical features from images.
 | **Python** | Programming language |
 | **TensorFlow / Keras** | CNN implementation and training |
 | **NumPy** | Numerical computations |
-| **OpenCV / scikit-image** | Image preprocessing |
+| **skimage** | Image preprocessing |
 | **Matplotlib / Seaborn** | Visualization |
+| **Pandas** | data manipulation and analysis
 
 ---
