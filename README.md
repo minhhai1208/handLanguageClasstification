@@ -10,11 +10,11 @@ The project demonstrates how **deep learning can automatically extract relevant 
 ---
 
 ##  Features
- Classify 25 different hand gestures from images  
+ 25 different hand gestures from images.
  **Data augmentation** to simulate variations in rotation, scale, and position, improving generalization  
- Automatic **feature extraction** with CNN layers  
- Prevent overfitting using **dropout** and **batch normalization**  
- Real-time evaluation on training and validation datasets  
+ - Automatic **feature extraction** with CNN layers  
+ - Prevent overfitting using **dropout** and **batch normalization**  
+ - Real-time evaluation on training and validation datasets  
 
 ---
 
