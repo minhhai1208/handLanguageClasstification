@@ -1,6 +1,6 @@
-# 🤚 Hand Language Classification with CNN
+#  Hand Language Classification with CNN
 
-## 📘 Overview
+##  Overview
 This project focuses on classifying **hand gestures from images** using **Convolutional Neural Networks (CNNs)** with **data augmentation**.  
 
 Initially, models were trained **without preprocessing**, resulting in poor performance. Traditional techniques such as **HOG, DCT, and DWT** improved results moderately, but the **CNN with augmentation far outperformed them**, achieving **nearly 100% accuracy on both training and test sets**.
@@ -9,16 +9,16 @@ The project demonstrates how **deep learning can automatically extract relevant 
 
 ---
 
-## ⚙️ Features
-✅ Classify 25 different hand gestures from images  
-✅ **Data augmentation** to simulate variations in rotation, scale, and position, improving generalization  
-✅ Automatic **feature extraction** with CNN layers  
-✅ Prevent overfitting using **dropout** and **batch normalization**  
-✅ Real-time evaluation on training and validation datasets  
+##  Features
+ Classify 25 different hand gestures from images  
+ **Data augmentation** to simulate variations in rotation, scale, and position, improving generalization  
+ Automatic **feature extraction** with CNN layers  
+ Prevent overfitting using **dropout** and **batch normalization**  
+ Real-time evaluation on training and validation datasets  
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 The **CNN** automatically extracts hierarchical features from images.  
 
@@ -49,7 +49,7 @@ The **CNN** automatically extracts hierarchical features from images.
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 | Library | Purpose |
 |---------|---------|
